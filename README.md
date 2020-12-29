@@ -1,1 +1,1 @@
-###Path finding algorthms visualizer
+## Path finding algorthms visualizer
