@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Board from './components/Board'
 function App() {
-  let width = 16;
+  let width = 30;
   let height = 10
   let start_x = Math.floor(Math.random() * Math.floor(height));
   let start_y = Math.floor(Math.random() * Math.floor(width));
